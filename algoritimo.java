@@ -2,7 +2,7 @@ package packeg;
 
 public class algoritimo {
     public static void main(String[] args) {
-
+        
         int choice = 10;// Escolha o valor
         var print = System.out;
 
